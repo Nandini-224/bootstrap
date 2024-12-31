@@ -1,0 +1,26 @@
+.form-label{
+    font-size: 20px;
+}
+#name{
+    border-color: black;
+}
+#em{
+    border-color: black;
+}
+#pn{
+    border-color: black;
+}
+#wu{
+    border-color: black;
+}
+#ym{
+    border-color: black;
+    height: 120px;
+}
+#en{
+    border-color: black;
+}
+.btn{
+    padding-left: 300px;
+    margin: 30px auto;
+}
